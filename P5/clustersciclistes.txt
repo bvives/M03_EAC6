@@ -1,0 +1,5 @@
+clustersciclistes.py:41:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation) # He tingut de cambiar la conf del vscod per que faixi el indent amb espais, i aplicarlo al fitxers
+clustersciclistes.py:60:0: C0303: Trailing whitespace (trailing-whitespace)
+clustersciclistes.py:132:4: R1705: Unnecessary "else" after "return", remove the "else" and de-indent the code inside it (no-else-return) # un cas de if return else return, el else return no cal, domes arribaria al segon return si falla el if
+clustersciclistes.py:475:0: C0304: Final newline missing (missing-final-newline)
+clustersciclistes.py:358:4: C0103: Constant name "path_dataset" doesn't conform to UPPER_CASE naming style (invalid-name)

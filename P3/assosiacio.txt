@@ -1,0 +1,8 @@
+L'assosiacio s'ha fet seguint els seguents pasos, tenint en compte que el model ha fet 4 clusters, del 0 al 3
+
+1- busquem el cluster amb el centre de mes valor, aquest sera el BEBB
+2- Busquem el centre amb el valor mes baix, aquest sera el MEMB
+3- Eliminimen aquest valors de la llista de clusters
+4- Es compara el primer valor dels 2 centres que queden (tp)
+5- Si el primer es mes baix, llavors sera el BEMB, si no sera el MEBB
+6- Per descart, l'altre es el que queda.

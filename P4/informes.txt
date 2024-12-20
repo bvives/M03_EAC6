@@ -1,0 +1,3 @@
+Aqui es guarden en un csv, on el nom es la classe i el contingut son les dades.
+
+Aixo pot tindre diverses utilitats, com estadistica, per comprovar resultats o generar nous datasets o BD.

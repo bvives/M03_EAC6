@@ -1,0 +1,7 @@
+generardataset.py:24:0: C0301: Line too long (173/100) (line-too-long) # He tingut de afegir contrabarres per poder dividir la linea
+generardataset.py:1:0: C0114: Missing module docstring (missing-module-docstring) # He afegit un petit comentari al principi
+generardataset.py:32:4: C0103: Constant name "str_ciclistes" doesn't conform to UPPER_CASE naming style (invalid-name) # He utiltizat la convencio de constant
+generardataset.py:44:4: C0103: Constant name "mu_p_be" doesn't conform to UPPER_CASE naming style (invalid-name)
+generardataset.py:45:4: C0103: Constant name "mu_p_me" doesn't conform to UPPER_CASE naming style (invalid-name)
+generardataset.py:46:4: C0103: Constant name "mu_b_bb" doesn't conform to UPPER_CASE naming style (invalid-name)
+generardataset.py:47:4: C0103: Constant name "mu_b_mb" doesn't conform to UPPER_CASE naming style (invalid-name)
